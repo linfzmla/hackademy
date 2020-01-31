@@ -13,9 +13,9 @@
   
   if (fruit.length>=5)
   {
-   console . log ( 'El nombre de la fruta tiene más de cinco caracteres' )
+   console . log ( 'El nombre de la fruta tiene más de cinco caracteres' );
   }else{
-  console . log( 'El nombre de la fruta tiene cinco caracteres o menos' )
+  console . log( 'El nombre de la fruta tiene cinco caracteres o menos' );
   }
 </script>
 
